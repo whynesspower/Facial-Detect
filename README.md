@@ -1,5 +1,4 @@
-# SmartBrain - v3
-Final project for ZTM course
+# Facial-Detect
 
 
 1. Clone this repo
